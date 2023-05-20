@@ -1,0 +1,9 @@
+{
+  "name": "Krumpac_Building_Pieces",
+  "description": "Reforge CORE - Building Pieces - Adds over 500 new Building Pieces - REGISTRATION REQUIRED, check README!",
+  "version_number": "1.1.0",
+  "website_url": "https://discord.gg/8bNTB7xNrd",
+  "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2105"
+  ]
+}

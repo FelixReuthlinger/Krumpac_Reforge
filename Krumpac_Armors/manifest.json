@@ -1,0 +1,9 @@
+{
+  "name": "Krumpac_Armors",
+  "description": "Reforge CORE - Armors - Adds 90 Unique Armors pieces - REGISTRATION REQUIRED, check README!",
+  "version_number": "1.1.0",
+  "website_url": "https://discord.gg/8bNTB7xNrd",
+  "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2105"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Krumpac_Reforge_Core",
+  "description": "Reforge CORE - REGISTRATION REQUIRED, check README!",
+  "version_number": "1.7.9",
+  "website_url": "https://discord.gg/8bNTB7xNrd",
+  "dependencies": [
+    "ASharpPen-Spawn_That-1.2.5",
+    "ASharpPen-This_Goes_Here-2.1.1",
+    "ComfyMods-SearsCatalog-1.2.0",
+    "FixItFelix-Diving_reposted-1.0.2",
+    "Krumpac-Datys_Professions-1.1.4",
+    "Krumpac-Krumpac_Armors-1.1.0",
+    "Krumpac-Krumpac_Building_Pieces-1.1.0",
+    "Krumpac-Krumpac_Dungeon_Meadows-1.0.5",
+    "Krumpac-Krumpac_Reforge_Loading_Screens-1.0.0",
+    "Krumpac-Krumpac_Reforge_Translations-1.2.4",
+    "Krumpac-Krumpac_Weapon_Arsenal-1.1.4",
+    "denikson-BepInExPack_Valheim-5.4.2105"
+  ]
+}

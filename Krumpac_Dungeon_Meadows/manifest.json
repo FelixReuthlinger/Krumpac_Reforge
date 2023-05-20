@@ -1,0 +1,9 @@
+{
+  "name": "Krumpac_Dungeon_Meadows",
+  "description": "Reforge CORE - Neck Cave Dungeon, the true boss of the Meadows - REGISTRATION REQUIRED, check README!",
+  "version_number": "1.0.5",
+  "website_url": "https://discord.gg/8bNTB7xNrd",
+  "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2105"
+  ]
+}

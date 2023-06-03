@@ -14,7 +14,7 @@ This mod is part of the [Reforge CORE mod pack](https://valheim.thunderstore.io/
 
 **Since the mod pack is currenty under development, playing the BETA is only available for closed community members!**
 
-For being able to play the mod pack, you will need to apply to be selected closed BETA community member. Please fill in the form [Krumpac Reforge Beta Tester Application](https://forms.gle/QcZj8vRcPiQMyK259). We will review the requests on best effort base (don't except immediate answers). We will only select small amounts of people to be part of this BETA testing phase. 
+For being able to play the mod pack, you will need to apply to be selected closed BETA community member. Please fill in the form [Krumpac Reforge Beta Tester Application](https://forms.gle/15FwLKkSBR6XZLjH6). We will review the requests on best effort base (don't except immediate answers). We will only select small amounts of people to be part of this BETA testing phase. 
 
 NOTE: Being accepted to the closed community for BETA testing is not influenced by becoming a Patreon supporter or any other financial support given. Same as being part of the closed community does not imply to need to financially support the community or authors. **THERE WILL BE NO PAYWALL FOR THIS MOD, JUST A REGISTRATION.**
 

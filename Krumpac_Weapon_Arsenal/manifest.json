@@ -1,7 +1,7 @@
 {
   "name": "Krumpac_Weapon_Arsenal",
   "description": "Reforge CORE - Weapons Arsenal - Adds over 150 high quality weapons - REGISTRATION REQUIRED, check README!",
-  "version_number": "1.1.4",
+  "version_number": "1.1.5",
   "website_url": "https://discord.gg/8bNTB7xNrd",
   "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2105"

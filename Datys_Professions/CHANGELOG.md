@@ -1,7 +1,8 @@
 * 1.1.5
     * Added new DISCLAIMER - READ THIS FIRST!
-    * Added Copyright, permissions and credits
-    * Added Credits and distribution permission
+    * Since the mod pack is currenty under development, playing the BETA is only available for closed community members!
+    * Added Registration Form 
+    * Added Copyright, permissions, credits & distribution permission
 * 1.1.4
     * Add T3 Biome foods and drinks
     * Decreasing Health for Herbs

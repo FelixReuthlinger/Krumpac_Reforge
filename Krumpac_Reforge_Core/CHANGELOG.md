@@ -7,18 +7,17 @@
     * Due to the request from IronGate to remove all PAYWALLS from all mods, we need to deactivate all previous versions that did contain the PREMIUM checks, all versions before this new version will not be able to be played anymore with this change!
     * We got official approval from IronGate to be allowed to create a closed community until Steam Workshop is available for Valheim for continuing to develop the mods with a closed community that helps us beta test until release on steam workshop
     * All old Key Manager registrations will be deleted and you will need to fill out the registration form, if you are not already a member of the closed community
-
-    Game Changes:
-     * Changed the Resource outputs for each Thrall (Heavily increased)
-     * Changed multiple recipes for the progress (Plains/Mountains)
-     * Edited the Terrain for the Loki Altar location
-     * Changed the Ancient Tree console errors/warnings (Colliders)
-     * Changed the water surface on Tannery
-     * Changed the water surface on Cooling Station
-     * Changed the recipe for Silver Needles
-     * Changed the recipe for Steel
-     * Changed the recipe for Artisan Station
-     * Prepared all Mods for the upcoming PTB Release on 06.06.2023
+ * Game Changes:
+    * Changed the Resource outputs for each Thrall (Heavily increased)
+    * Changed multiple recipes for the progress (Plains/Mountains)
+    * Edited the Terrain for the Loki Altar location
+    * Changed the Ancient Tree console errors/warnings (Colliders)
+    * Changed the water surface on Tannery
+    * Changed the water surface on Cooling Station
+    * Changed the recipe for Silver Needles
+    * Changed the recipe for Steel
+    * Changed the recipe for Artisan Station
+    * Prepared all Mods for the upcoming PTB Release on 06.06.2023
 * 1.7.9
   * Removed T3 Bronze Legs Skirt
   * Changed the Steel Recipes for the Plains

@@ -8,7 +8,7 @@
     * We got official approval from IronGate to be allowed to create a closed community until Steam Workshop is available for Valheim for continuing to develop the mods with a closed community that helps us beta test until release on steam workshop
     * All old Key Manager registrations will be deleted and you will need to fill out the registration form, if you are not already a member of the closed community
 
-    * Game Changes
+    Game Changes:
      * Changed the Resource outputs for each Thrall (Heavily increased)
      * Changed multiple recipes for the progress (Plains/Mountains)
      * Edited the Terrain for the Loki Altar location

@@ -4,6 +4,7 @@
     * Added Registration Form 
     * Added Copyright, permissions, credits & distribution permission
     * All Reforge mods have been bundled under one Key Manager registry for easier handling
+    * All old Key Manager registrations will be deleted and you will need to fill out the registration form, if you are not already a member of the closed community
 * 1.1.4
     * Add T3 Biome foods and drinks
     * Decreasing Health for Herbs

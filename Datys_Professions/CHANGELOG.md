@@ -3,6 +3,7 @@
     * Since the mod pack is currenty under development, playing the BETA is only available for closed community members!
     * Added Registration Form 
     * Added Copyright, permissions, credits & distribution permission
+    * All Reforge mods have been bundled under one Key Manager registry for easier handling
 * 1.1.4
     * Add T3 Biome foods and drinks
     * Decreasing Health for Herbs

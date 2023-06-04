@@ -1,3 +1,7 @@
+* 1.1.5
+    * Added new DISCLAIMER - READ THIS FIRST!
+    * Added Copyright, permissions and credits
+    * Added Credits and distribution permission
 * 1.1.4
     * Add T3 Biome foods and drinks
     * Decreasing Health for Herbs

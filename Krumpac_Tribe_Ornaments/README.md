@@ -1,6 +1,6 @@
-# Reforge CORE: Krumpac's Sacrificing Altars, Tribe Ornaments and Praying System
+# Reforge CORE: Krumpac's Tribe Ornaments
 * This mod is part of the [Reforge CORE mod pack](https://valheim.thunderstore.io/package/Krumpac/Krumpac_Reforge_Core/).
-* This mod works well with [Krumpac Sacrificing Altars](https://valheim.thunderstore.io/package/Krumpac/Krumpac_Tribe_Ornaments/)
+* This mod works well with [Krumpac Sacrificing Altars](https://valheim.thunderstore.io/package/Krumpac/Krumpac_Sacrificing_Altars/)
 
 <p align="center">
   <a href="https://discord.gg/uS5P3HuGCT">
@@ -45,22 +45,12 @@ Copyright and all rights reserved stay with the original author (uploader of thi
 
 * To make sure all mods work as designed it is highly recommended to download the **[Reforge CORE](https://valheim.thunderstore.io/package/Krumpac/Krumpac_Reforge_Core/)** modpack **including** all dependencies. 
 * Reforge CORE makes so many changes to the game (mainly with materials and crafting stations) that some mods that rely on the vanilla materials and items may not work. The good news is that most QoL mods won't have compatibility issues **but we recommend that you start a new world with a new character, then add your preferred QoL slowly to ensure compatibility.**
-* You can also download the Sacrificing and Praying mod alone, but this will require you to do a lot of adjustments in the mod or other mods you use to make it work without the CORE mod pack.
+* You can also download the Tribe Ornaments mod alone, but this will require you to do a lot of adjustments in the mod or other mods you use to make it work without the CORE mod pack.
 
 **WARNING**: downloading this modpack using *R2 Mod Manager* will cause the mod pack to not work fully, you might be affected by some issues of missing configurations!
 
-# Krumpac's Sacrificing Altars and Praying System
-* Adds different altars for different gods to each biome
-* You can pray and sacrifice to the gos at the altars
-
-[Sacrificing Altars and Praying System on YouTube](https://www.youtube.com/watch?v=qlOkNZTUKkM)
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1095286119505080341/1109109461450227712/SPOILER_image.png?width=1630&height=917"/>
-  <br/>
-  <img src="https://cdn.discordapp.com/attachments/1095286119505080341/1109110165178953920/SPOILER_image.png?width=1630&height=917"/>
-</p>
-
+# Krumpac's Tribe Ornaments
+* Adds the Tribe Ornaments crafting station and a lot of wood carvings 
 
 ## Reforge CORE: A Completely New Way to Play Valheim
 
@@ -68,13 +58,7 @@ Forget everything you know about gathering, crafting, cooking, hunting, building
 
 # Good to Know
 
-* New Praying System: Added Praying Skill using `/pray` in the game chat, like other emotes
-    * Each Biome would be unlocked just with certain skill requirement (Blackforest would need level 10 praying and Swamps level 20, Ocean level 30, Mountains level 40, Plains 50, Mistlands 60, Ashlands 70, DeepNorth 80)
-    * Every 2 Praying level will reduce the timer to -1 Minute at level 100 Praying level (Base = 60min ) would reduce the timer to 10 Minutes
-    * Every 5 Praying levels will reduce the critical fail chance to -1% of the (total : 21%) with level 100 -> there is 1% critical fail chance
-* Each Altar has his own god and own Praying SFX
-* Buff, Debuff, Criticals would be manage by the Altar locations itself
-* Small timer counter (chat command) to show the timer left for praying -> `/pray cd`
+* TBD
 
 # Reforged Lore
 

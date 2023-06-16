@@ -1,3 +1,22 @@
+* 1.8.2
+    * Fixed Diving in the Dungeons
+    * Removed Dependencies on VikingsDoSwim: https://valheim.thunderstore.io/package/blacks7ar/VikingsDoSwim/
+    * Now diving is included in the Core
+* 1.8.1
+    * PTB RELEASE
+    * We are reworked all Weapons
+    *  New stats (Damages + Upgrade DMG)
+    * New stats for Special attacks (2x Damage now for all weapons)
+    * New Backstab damage multiplicator for all weapons
+    * New attacks animations (3 Chain Animations + Special Animations)
+    * New stamina usage/drain
+    * New force attack (How is the mob pushed away)
+    * New weightsfor all Weapons
+    * Hildisvini Dungeon is now open, so you can have a look on that dungeon
+    * All Weapons are now Usable In Water - Equip/Attacks -> No dependencie on other mod, which equip your weapons in water
+    * Changed dependencies for diving mod
+    * added Sacrificing Altars, Tribe Ornaments & Praying system as dependencies
+    * KNOW ISSUE: You cannot dive now in my Dungeons, we are working with blacks7ar#9396 on that part
 * 1.8.0
     * Added new DISCLAIMER - READ THIS FIRST!
     * Since the mod pack is currenty under development, playing the BETA is only available for closed community members!
